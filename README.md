@@ -1,4 +1,4 @@
-### Hi there, I'm Vinicius Fialho 👋
+## Hi there, I'm Vinicius Fialho 👋
 
 📚 I’m studying Data Engineering at PUC-MG
 

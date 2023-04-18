@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python and its data analysis' libraries (Pandas, NumPy, Matplotlib and Seaborn)
 
-🎲 I have experience with Excel, SQL and Tableau
+🎲 Knowledge in Excel, SQL and Tableau
 
 💬 Ask me about anything, I'll be happy to help
 

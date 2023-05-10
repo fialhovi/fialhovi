@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Statistics
 
-🎲 Knowledge in Excel, SQL, Tableau and Python (Pandas, NumPy, Matplotlib and Seaborn)
+🎲 Knowledge in Excel, SQL, Tableau, Python and its libraries for Data Science
 
 💬 Ask me about anything, I'll be happy to help
 

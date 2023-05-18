@@ -2,9 +2,9 @@
 
 📚 I’m studying Data Engineering at PUC-MG
 
-🌱 I’m currently learning Statistics
+🌱 Currently learning Machine Learning
 
-🎲 Knowledge in Excel, SQL, Tableau, Python and its libraries for Data Science
+🎲 I'm familiar with Excel, SQL, Tableau, Python and its libraries for Data Science
 
 💬 Ask me about anything, I'll be happy to help
 

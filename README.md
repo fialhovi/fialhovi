@@ -1,10 +1,10 @@
 ## Hi there, I'm Vinicius Fialho 👋
 
-📚 I’m studying Data Engineering at PUC-MG
+📚 I'm an Analytics Engineer from Rio de Janeiro, Brazil
 
-🌱 Currently learning Statistics
+🌱 Currently learning Docker and Airflow
 
-🎲 I'm familiar with Excel, SQL, Tableau, Python and its libraries for Data Science
+🎲 I'm familiar with Excel, SQL, Power BI and Python
 
 💬 Ask me about anything, I'll be happy to help
 

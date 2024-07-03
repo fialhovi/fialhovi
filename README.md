@@ -17,7 +17,7 @@
 
 ## ⚡ Stack
 
-* **Databases** → BigQuery, Postgres, Amazon Redshift, SQL Server (SSMS)
+* **Databases** → BigQuery, Postgres, Amazon Redshift
 * **BI** → Power BI, QlikSense, Looker (Data Studio), Tableau
 * **Versioning / Repository** → Git, GitHub
 * **Programming** → SQL, Python

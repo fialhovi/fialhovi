@@ -1,10 +1,8 @@
 ## Hi there, I'm Vinicius Fialho 👋
 
-📚 I'm an Analytics Engineer from Rio de Janeiro, Brazil
+📚 I'm an Solutions Engineer from Rio de Janeiro, Brazil
 
-🌱 Currently learning Docker and Airflow
-
-🎲 I'm familiar with Excel, SQL, Power BI and Python
+🎲 I'm familiar with SQL, BI, Python, Cloud and Databricks
 
 💬 Ask me about anything, I'll be happy to help
 

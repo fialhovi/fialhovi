@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinicius Fialho 👋
 
-📚 I'm an Solutions Engineer from Rio de Janeiro, Brazil
+📚 I'm a Solutions Engineer from Rio de Janeiro, Brazil
 
 🎲 I'm familiar with SQL, BI, Python, Cloud and Databricks
 
